@@ -40,7 +40,7 @@
     rounded?: boolean; /** If enabled the edges will be rounded, enabled by default */
 ```
 
-<details> 
+<details open> 
     <summary> Full example </summary>
 (If you want to use Gradients, you maybe need to import Gradient like this: ```const { drawCard, Gradient } = require('discord-welcome-card')```)
 ```typescript
