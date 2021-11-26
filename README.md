@@ -43,7 +43,8 @@
 <details> 
     <summary> Full example </summary>
 (If you want to use Gradients, you maybe need to import Gradient like this: ```const { drawCard, Gradient } = require('discord-welcome-card')```)
-```typescript
+    
+```ts
     theme: 'circuit',
     text: {
         title: 'Hellloo',
